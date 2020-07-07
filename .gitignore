@@ -1,3 +1,5 @@
 Thirdparty/DBoW2/build/**
 Thirdparty/g2o/build/**
 build/**
+*.so
+Examples/**
